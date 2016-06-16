@@ -1,0 +1,1 @@
+<a href="https://portal.azure.com/#create/Microsoft.Template/https://github.com/ibonilm/HealthClinic.biz/blob/master/src/MyHealth.Deployment/Templates/HealthClinic.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
